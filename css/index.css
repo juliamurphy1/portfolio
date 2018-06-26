@@ -1,12 +1,12 @@
-
+a:link {
+	text-decoration: none;
 
 .rounded {
 		border-radius: 25px;
 		border: 5px solid #E9967A;
 }
 
-ul {
-	text-decoration: none;
+
 }
 h1 {
 	color:#E9967A;
