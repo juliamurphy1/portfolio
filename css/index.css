@@ -32,11 +32,11 @@
 	}
 	
 	h2 {
-		color: #E9967A;
+		color: white;
 	}
 
 	h3 {
-		color: #E9967A;
+		color: white;
 	}
 
 	body {
@@ -47,7 +47,7 @@
 		font-family: 'Amatic SC', cursive;
 		font-family: 'Source Sans Pro', sans-serif;
 		background-color: #F5F5DC;
-		background-image: url('images/backgroundcolor.jpg');
+		background-image: url('../images/backgroundcolor.jpg');
 	}
 
 	h1 {
