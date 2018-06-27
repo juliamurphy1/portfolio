@@ -1,0 +1,40 @@
+	
+	body {
+		padding: 10px;
+		font-family: 'Open Sans', sans-serif;
+		font-family: 'Open Sans Condensed', sans-serif;
+		font-family: 'Josefin Slab', serif;
+		font-family: 'Amatic SC', cursive;
+		font-family: 'Source Sans Pro', sans-serif;
+		background-color: #F5F5DC;
+		background-image: url('../images/backgroundcolor.jpg');
+	}
+
+
+	a:link {
+		text-decoration: none;
+	}
+	
+	a:hover {
+		color:pink;
+	}
+
+	h1 {
+		color: #E9967A;
+		font-size: 50px;
+		margin: 5px;
+		width: 300px;
+		padding-left: 20px;
+	}
+
+	h2 {
+		color: white;
+	}
+
+	h3 {
+		color: white;
+	}
+
+	nav {
+		
+	}
